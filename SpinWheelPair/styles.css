@@ -1,0 +1,39 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#wheel1
+{
+	position: fixed;
+		top: 0px;
+		left: 0px;
+	
+	-webkit-transition: -webkit-transform 5s;
+}
+
+#wheel2
+{
+	position: fixed;
+		top: 0px;
+		left: 705px;
+	
+	-webkit-transition: -webkit-transform 5s;
+}
+
+#arrow
+{
+	position: fixed;
+		top: 268px;
+		left: 570px;
+		
+		font-size: 30px;
+}
+
+#spinall
+{
+	position: fixed;
+		top: 575px;
+		left: 605px;
+}
