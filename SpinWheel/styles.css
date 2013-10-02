@@ -1,0 +1,21 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#display
+{
+	position: fixed;
+	
+	-webkit-transition: -webkit-transform 5s;
+}
+
+#arrow
+{
+	position: fixed;
+		top:233px;
+		left: 500px;
+		
+		font-size: 30px;
+}
